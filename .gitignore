@@ -1,0 +1,10 @@
+# Build & user files
+bin/
+obj/
+.vs/
+*.suo
+*.user
+
+# Local database files
+*.mdf
+*.ldf
